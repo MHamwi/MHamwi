@@ -32,7 +32,7 @@ I'm the Picasso of pixels and the code wizard of the design realm.
 
 If you're looking for a design superhero, I'm your pixelated knight in shining armor. Let's turn your ideas into digital masterpieces! 🚀
   
-### 🌈 Let's Connect
+### 🌍 Let's Connect
 
 - 📧 Need a design lifeguard? Reach out to me at <strong>owmohammadwo@gmail.com!</strong>
 - 🔗 Connect with me on Linkedin: <a><img src="https://img.shields.io/badge/-Mohammad Hamwi-blue?style=flat-square&logo=Linkedin&logoColor=white" height="25"></a>
