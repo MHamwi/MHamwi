@@ -2,8 +2,12 @@
 
 ## 🚀 Full Stack Designer | Front-End | UI/UX | Motion Graphics | Branding | Social Media Design
 
-Welcome to my GitHub profile! I'm not just a designer; I'm the Picasso of pixels and the code wizard of the design realm.
-<img src="https://media.giphy.com/media/hPsERiAEJFYQSs9zS0/giphy.gif" width="28">
+Welcome to my GitHub profile! I'm not just a designer;
+<br>
+I'm the Picasso of pixels and the code wizard of the design realm.
+<br>
+<br>
+<img src="https://media.giphy.com/media/hPsERiAEJFYQSs9zS0/giphy.gif" width="150">
 
 ### 💼 About Me
 
